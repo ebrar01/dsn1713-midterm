@@ -299,9 +299,5 @@ footer img { filter: none; }
 footer ul { list-style: none; padding: 0; margin: 0; display: flex; gap: 12px; }
 footer ul li { display: inline-block; }
 .footer-left span { color: var(--light); }
-<<<<<<< HEAD
 .footer-right ul { margin: 0; }
 
-=======
-.footer-right ul { margin: 0; }
->>>>>>> dd5de607000feb8b42620f83019f7ecbfa29285e
